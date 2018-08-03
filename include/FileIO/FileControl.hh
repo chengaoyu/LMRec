@@ -7,7 +7,7 @@
 #ifndef FILECONTROL_HH
 #define FILECONTROL_HH
 
-#include "../GeometryComponents/GeometryComponents.hh"
+#include "GeometryComponents.hh"
 #include "FileStruct.hh"
 
 #include<fstream>

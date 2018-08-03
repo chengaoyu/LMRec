@@ -7,7 +7,7 @@
  * @date:   2017/07/10
 */
 #include "boost/math/special_functions/bessel.hpp"
-#include "../GeometryComponents/GeometryComponents.hh"
+#include "GeometryComponents.hh"
 
 
 

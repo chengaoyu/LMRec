@@ -4,7 +4,7 @@
  * @date:   2017/05/24
 */
 
-#include"../GeometryComponents.hh"
+#include"GeometryComponents.hh"
 
 //class Point;
 

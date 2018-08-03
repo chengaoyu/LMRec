@@ -4,7 +4,7 @@
  * @date:   2017/05/25
 */
 
-#include"../GeometryComponents.hh"
+#include "GeometryComponents.hh"
 
 // the form of rotation_matrix
 // [0,0][0,1][0,2]

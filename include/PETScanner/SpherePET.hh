@@ -1,7 +1,7 @@
 #ifndef SPHEREPET_HH
 #define SPHEREPET_HH
 
-#include"PETScanner.hh"
+#include "PETScanner.hh"
 /*
  * @brief:
  * However, this general model will cost much time when given a point and find which crystal it belongs to.

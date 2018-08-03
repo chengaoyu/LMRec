@@ -3,7 +3,7 @@
  * @auther: chengaoyu2013@gmail.com
  * @date:   2017/05/24
 */
-#include "../GeometryComponents.hh"
+#include "GeometryComponents.hh"
 
 /* class--- Block
  * function definitions
