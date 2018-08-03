@@ -1,10 +1,10 @@
 #include <iostream>
 //#include <armadillo>
 
-#include "PETScanner/PETScanner.hh"
-#include "PETScanner/SpherePET.hh"
-#include "PETScanner/RingPET.hh"
-#include "PETScanner/DodePET.hh"
+#include "PETScanner.hh"
+#include "SpherePET.hh"
+#include "RingPET.hh"
+#include "DodePET.hh"
 
 //#include "ImageProcessing/ImgFilters.hh"
 

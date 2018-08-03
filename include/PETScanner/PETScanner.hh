@@ -18,9 +18,9 @@
 #include <string>
 #include <ctime>
 
-#include "../GeometryComponents/GeometryComponents.hh"
-#include "../ImageProcessing/ImgFilters.hh"
-#include "../FileIO/FileControl.hh"
+#include "GeometryComponents.hh"
+#include "ImgFilters.hh"
+#include "FileControl.hh"
 #include "TOF.hh"
 
 //define the image volume

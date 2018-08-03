@@ -4,7 +4,7 @@
 #include<cstddef>
 #include<vector>
 #include<iostream>
-#include"../GeometryComponents/GeometryComponents.hh"
+#include "GeometryComponents.hh"
 
 #define cspeed  3e11; //the speed of light is 3e11 mm/second.
 /*
