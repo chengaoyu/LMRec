@@ -53,6 +53,15 @@ file( GLOB_RECURSE headers ${PROJECT_SOURCE_DIR}/include/*.hh )
 add_executable( lm-recon main.cc ${sources} ${headers}) 
 target_link_libraries(lm-recon ${LIBS})
 
+# -------
+# Move the executables to the install path
+install( TARGETS
+  lm-recon
+  DESTINATION
+  bin
+)
+
+
 # #========Build and link:=========================#
 # add_executable(${PROJECT_NAME} ${PROJECT_NAME}.cc ${SOURCEFILES} ${HEADERFILES})
 # target_link_libraries(${PROJECT_NAME} ${LIBS})

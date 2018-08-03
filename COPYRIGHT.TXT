@@ -1,0 +1,5 @@
+Copyright 2017-2018 all LMRec contributors listed below:
+
+--> Chen Gaoyu, Tao Weijie
+
+This is LMRec version 1.0.
